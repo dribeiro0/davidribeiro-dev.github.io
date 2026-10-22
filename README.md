@@ -5,6 +5,10 @@
 ![Last Commit](https://img.shields.io/github/last-commit/davidribeiro-dev/davidribeiro-dev.github.io)
 ![Top Language](https://img.shields.io/github/languages/top/davidribeiro-dev/davidribeiro-dev.github.io)
 
+> [!IMPORTANT]
+> **This site is offline for now.** I've taken it down while I plan a rebuild — a new
+> version is on the way. The v1 source stays here for reference in the meantime.
+
 This is the source code for [davidribeiro-dev.github.io](https://davidribeiro-dev.github.io/) , a static personal portfolio website built from scratch and hosted on GitHub Pages.
 
 The site presents selected projects, earned certifications, and contact information for David Ribeiro, a CIS student at Blue Hills Regional Technical.
@@ -117,7 +121,9 @@ GitHub Pages configuration can be reviewed in **Repository Settings → Pages**.
 
 ## Status
 
-The site is **active**. Structure and styling are stable; content is updated as new projects ship and new certifications are earned. The site is currently desktop-first.
+**Offline — rebuild planned.** The site has been taken down for now, and the live URL no longer serves. A new version is in planning; this repository stays public so the version 1.0 source remains available for reference.
+
+Version 1.0 was desktop-first, with structure and styling stable at the point it was retired.
 
 ## Acknowledgements
 
